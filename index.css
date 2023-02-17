@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.container{
+    text-align: center;
+}
+.box{
+    position: absolute;
+    top:60px;
+    left:750px;
+    /* height: auto;
+    width: auto;
+    border: 1px solid black;
+    padding: 45px; */
+}
+.insta{
+    height: auto;
+    width: auto;
+    border: 1px solid black;
+    padding: 45px;
+}
+
+h1{
+    font-size: 40px;
+    padding: 15px;
+    font-family: cursive;
+
+}
+/* .text{
+
+    font-size: 10px;
+    padding: 15px;
+    margin: 15px;
+
+} */
+.name{
+    height: 4px;
+    width: 220px;
+    padding: 15px;
+    margin: 4px;
+    border-radius: 4px;
+}
+.check{
+    margin: 15px;
+    position: relative;
+    right: 70px;
+}
+button{
+    height: 30px;
+    width: 245px;
+    font-size: 15px;
+    background-color: blue;
+    border: 0;
+    margin: 6px;
+    border-radius: 8px;
+}
+.or{
+    font-size: 12px;
+    margin: 10px;
+    
+}
+.abc{
+    word-spacing: 2px;
+    margin: 20px;
+    text-decoration-line: none;
+    
+}
+.abcde{
+    font-size: 13px;
+}
+.abcd{
+    /* margin: 25px; */
+    font-size: 15px;
+    width: auto;
+    width:auto;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 5px;
+}
+.app{
+    font-size: 14px;
+
+}
+.img2{
+    position: absolute;
+    left: 60px;
+    
+}
+.img3{
+    position: absolute;
+    left: 180px;
+}
+a{
+    text-decoration-line: none;
+    color: blueviolet;
+    
+}
+.img5{
+    position: absolute;
+    left:350px;
+    top: 120px;
+
+}
+
+
